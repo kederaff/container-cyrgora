@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "kederaff",
+  "repo": "container-cyrgora",
+  "name": "kederaff",
+  "email": "likaikai@proton.me",
+}
